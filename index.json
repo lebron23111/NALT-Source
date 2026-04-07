@@ -10,7 +10,7 @@
 "apps": [
 {
 "name": "Tiktok",
-"bundleIdentifier": "com.eqcwredrv2.x3oal9vhvl",
+"bundleIdentifier": "com.zhiliaoapp.music-ly.app",
 "marketplaceID": "",
 "developerName": "Bytedance",
 "subtitle": "Tiktok",
@@ -19,7 +19,7 @@
 "tintColor": "#6156e2",
 "category": "other",
 "screenshots": [],
-"versions": [],
+"versions": [44.5.0],
 "appPermissions": {},
 "patreon": {}
 }
