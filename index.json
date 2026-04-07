@@ -1,16 +1,16 @@
-{
-"name": "NALT Source",
+{"name": "NALT Source",
 "subtitle": "A source for all of my apps",
-"description": "Bypassing parents? Me too, come get my apps that you cant find normally. No malware here, because I use this for personal use too!",
+"description": "Bypassing parents? Me too, come get my apps that you cant find normally. No malaware here, because i use this for personal use too!",
 "iconURL": "https://i.imgur.com/D9SHXaT.png",
 "website": "https://altstudio.app",
 "patreonURL": "https://patreon.com/altstudio",
 "tintColor": "#6156e2",
-"featuredApps": [],
+"featuredApps": [
+],
 "apps": [
 {
 "name": "Tiktok",
-"bundleIdentifier": "com.zhiliaoapp.music-ly.app",
+"bundleIdentifier": "com.eqcwredrv2.x3oal9vhvl",
 "marketplaceID": "",
 "developerName": "Bytedance",
 "subtitle": "Tiktok",
@@ -19,15 +19,7 @@
 "tintColor": "#6156e2",
 "category": "other",
 "screenshots": [],
-"versions": [
-{
-"version": "44.5.0",
-"date": "2026-04-07T15:53:00+00:00",
-"downloadURL": "https://your-link.ipa",
-"size": 12345678,
-"localizedDescription": "TikTok 44.5.0"
-}
-]
+"versions": [44.5.0],
 "appPermissions": {},
 "patreon": {}
 }
@@ -42,7 +34,7 @@
 "imageURL": "",
 "notify": true,
 "url": "https://example.com/new_feature_details",
-"appID": ""
+"appID": null
 }
 ]
 }
