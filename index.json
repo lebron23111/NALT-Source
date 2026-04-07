@@ -1,0 +1,41 @@
+{
+"name": "NALT Source",
+"subtitle": "A source for all of my apps",
+"description": "Bypassing parents? Me too, come get my apps that you cant find normally. No malaware here, because i use this for personal use too!",
+"iconURL": "https://i.imgur.com/D9SHXaT.png",
+"website": "https://altstudio.app",
+"patreonURL": "https://patreon.com/altstudio",
+"tintColor": "#6156e2",
+"featuredApps": [
+],
+"apps": [
+{
+"name": "Tiktok",
+"bundleIdentifier": "com.eqcwredrv2.x3oal9vhvl",
+"marketplaceID": "",
+"developerName": "Bytedance",
+"subtitle": "Tiktok",
+"localizedDescription": "This is an awesome app only available on AltStore.",
+"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElLidp9X92rbNAvMao5rlx2y0duZhj6O0EQ&s",
+"tintColor": "#6156e2",
+"category": "other",
+"screenshots": [...],
+"versions": [...],
+"appPermissions": {...},
+"patreon": {...}
+}
+],
+"news": [
+{
+"title": "Tiktok is here!",
+"identifier": "news_l16hl7qn7n",
+"caption": "We have finally brought a, vanilla, no mod, sign inable version of tiktok!",
+"date": "2026-04-07T15:53",
+"tintColor": "#6156e2",
+"imageURL": "",
+"notify": true,
+"url": "https://example.com/new_feature_details",
+"appID": null
+}
+]
+}
