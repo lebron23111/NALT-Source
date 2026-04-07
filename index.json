@@ -22,6 +22,7 @@
 "versions": [
 {
 "version": "44.5.0",
+"buildVersion": "44.5.0",
 "date": "2026-04-07T15:53:00+00:00",
 "downloadURL": "https://your-link.ipa",
 "size": 12345678,
@@ -29,7 +30,7 @@
 }
 ],
 "appPermissions": {},
-"patreon" : "example.com"
+"patreon" : ""
 }
 ],
 "news": [
