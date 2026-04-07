@@ -19,7 +19,15 @@
 "tintColor": "#6156e2",
 "category": "other",
 "screenshots": [],
-"versions": ["44.5.0"],
+"versions": [
+{
+"version": "44.5.0",
+"date": "2026-04-07T15:53:00+00:00",
+"downloadURL": "https://your-link.ipa",
+"size": 12345678,
+"localizedDescription": "TikTok 44.5.0"
+}
+]
 "appPermissions": {},
 "patreon": {}
 }
