@@ -1,13 +1,12 @@
 {
 "name": "NALT Source",
 "subtitle": "A source for all of my apps",
-"description": "Bypassing parents? Me too, come get my apps that you cant find normally. No malaware here, because i use this for personal use too!",
+"description": "Bypassing parents? Me too, come get my apps that you cant find normally. No malware here, because I use this for personal use too!",
 "iconURL": "https://i.imgur.com/D9SHXaT.png",
 "website": "https://altstudio.app",
 "patreonURL": "https://patreon.com/altstudio",
 "tintColor": "#6156e2",
-"featuredApps": [
-],
+"featuredApps": [],
 "apps": [
 {
 "name": "Tiktok",
@@ -19,10 +18,10 @@
 "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElLidp9X92rbNAvMao5rlx2y0duZhj6O0EQ&s",
 "tintColor": "#6156e2",
 "category": "other",
-"screenshots": [...],
-"versions": [...],
-"appPermissions": {...},
-"patreon": {...}
+"screenshots": [],
+"versions": [],
+"appPermissions": {},
+"patreon": {}
 }
 ],
 "news": [
