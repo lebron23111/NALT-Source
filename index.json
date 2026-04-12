@@ -46,7 +46,7 @@
 },
   {
 "name": "LocalDevVPN",
-"bundleIdentifier": "comjkcoxson.LocalDevVPN.app",
+"bundleIdentifier": "com.jkcoxson.LocalDevVPN.app",
 "developerName": "Coxson Engineering",
 "subtitle": "A loopback vpn allowing for beta testing.",
 "localizedDescription": "Figure out what is does.",
