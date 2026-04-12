@@ -8,6 +8,7 @@
 "tintColor": "#6156e2",
 "featuredApps": [],
 "apps": [
+
 {
 "name": "Tiktok",
 "bundleIdentifier": "com.zhiliaoapp.musical-ly.app",
@@ -29,33 +30,10 @@
 }
 ],
 "appPermissions": {},
-"patreon" : {}
-}
-],
-"news": [
-{
-"title": "Tiktok is here!",
-"identifier": "news_l16hl7qn7n",
-"caption": "We have finally brought a, vanilla, no mod, sign inable version of tiktok!",
-"date": "2026-04-07T15:53",
-"tintColor": "#6156e2",
-"imageURL": "https://i.imgur.com/D9SHXaT.png",
-"notify": true,
-"url": "https://lebron23111.github.io/NALT-Source/",
-"appID": null
+"patreon": {}
 },
-  {
-"title": "LocalDevVPN is here!",
-"identifier": "news_b4uurvus3y",
-"caption": "For those of you that needed it, here it is!",
-"date": "2026-04-07T15:53",
-"tintColor": "#0fee94",
-"imageURL": "https://i.imgur.com/D9SHXaT.png",
-"notify": true,
-"url": "https://lebron23111.github.io/NALT-Source/",
-"appID": null
-}
-  {
+
+{
 "name": "LocalDevVPN",
 "bundleIdentifier": "com.jkcoxson.LocalDevVPN.app",
 "developerName": "Coxson Engineering",
@@ -70,16 +48,40 @@
 "version": "1.1.5",
 "buildVersion": "1.1.5",
 "date": "2026-04-07T15:53:00+00:00",
-"downloadURL": "https://download1472.mediafire.com/es4wkadxalogrcp-bWB3lUwiKcxkNiBpiijzZeMdxZkV4APpNZXsMqUj2YNOU0MlVAz5E1fxdEp4oNujRE0E8pcUNwIdDjtIwi6haI6ozzLRqlcrqJyVZVsXcD3CCeTG-BIT-YnpbSNz8UfnrO_n2NdVZFk6Wnx62hFS5pKd1w/2676i2nmcxcaco7/org.angelauramc.amethyst-1.0-ios.ipa",
+"downloadURL": "https://download1472.mediafire.com/.../org.angelauramc.amethyst-1.0-ios.ipa",
 "size": 12345678,
 "localizedDescription": "LocalDevVPN 1.1.5"
 }
 ],
 "appPermissions": {},
-"patreon" : {}
+"patreon": {}
 }
-],
-"news": [
 
+],
+
+"news": [
+{
+"title": "Tiktok is here!",
+"identifier": "news_l16hl7qn7n",
+"caption": "We have finally brought a, vanilla, no mod, sign inable version of tiktok!",
+"date": "2026-04-07T15:53",
+"tintColor": "#6156e2",
+"imageURL": "https://i.imgur.com/D9SHXaT.png",
+"notify": true,
+"url": "https://lebron23111.github.io/NALT-Source/",
+"appID": null
+},
+{
+"title": "LocalDevVPN is here!",
+"identifier": "news_b4uurvus3y",
+"caption": "For those of you that needed it, here it is!",
+"date": "2026-04-07T15:53",
+"tintColor": "#0fee94",
+"imageURL": "https://i.imgur.com/D9SHXaT.png",
+"notify": true,
+"url": "https://lebron23111.github.io/NALT-Source/",
+"appID": null
+}
 ]
+
 }
