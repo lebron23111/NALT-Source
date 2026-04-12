@@ -43,6 +43,42 @@
 "notify": true,
 "url": "https://lebron23111.github.io/NALT-Source/",
 "appID": null
+},
+  {
+"name": "LocalDevVPN",
+"bundleIdentifier": "comjkcoxson.LocalDevVPN.app",
+"developerName": "Coxson Engineering",
+"subtitle": "A loopback vpn allowing for beta testing.",
+"localizedDescription": "Figure out what is does.",
+"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-96l9xJf3JWFAZ6SlOsrivYT6buaxu1C8w&s",
+"tintColor": "#0fee94",
+"category": "Developer",
+"screenshots": [],
+"versions": [
+{
+"version": "1.1.5",
+"buildVersion": "1.1.5",
+"date": "2026-04-07T15:53:00+00:00",
+"downloadURL": "https://download1472.mediafire.com/es4wkadxalogrcp-bWB3lUwiKcxkNiBpiijzZeMdxZkV4APpNZXsMqUj2YNOU0MlVAz5E1fxdEp4oNujRE0E8pcUNwIdDjtIwi6haI6ozzLRqlcrqJyVZVsXcD3CCeTG-BIT-YnpbSNz8UfnrO_n2NdVZFk6Wnx62hFS5pKd1w/2676i2nmcxcaco7/org.angelauramc.amethyst-1.0-ios.ipa",
+"size": 12345678,
+"localizedDescription": "LocalDevVPN 1.1.5"
+}
+],
+"appPermissions": {},
+"patreon" : {}
+}
+],
+"news": [
+{
+"title": "LocalDevVPN is here!",
+"identifier": "news_l16hl7qn7n",
+"caption": "For those of you that needed it, here it is!",
+"date": "2026-04-07T15:53",
+"tintColor": "#0fee94",
+"imageURL": "https://i.imgur.com/D9SHXaT.png",
+"notify": true,
+"url": "https://lebron23111.github.io/NALT-Source/",
+"appID": null
 }
 ]
 }
