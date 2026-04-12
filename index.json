@@ -45,6 +45,17 @@
 "appID": null
 },
   {
+"title": "LocalDevVPN is here!",
+"identifier": "news_b4uurvus3y",
+"caption": "For those of you that needed it, here it is!",
+"date": "2026-04-07T15:53",
+"tintColor": "#0fee94",
+"imageURL": "https://i.imgur.com/D9SHXaT.png",
+"notify": true,
+"url": "https://lebron23111.github.io/NALT-Source/",
+"appID": null
+}
+  {
 "name": "LocalDevVPN",
 "bundleIdentifier": "com.jkcoxson.LocalDevVPN.app",
 "developerName": "Coxson Engineering",
@@ -69,16 +80,6 @@
 }
 ],
 "news": [
-{
-"title": "LocalDevVPN is here!",
-"identifier": "news_b4uurvus3y",
-"caption": "For those of you that needed it, here it is!",
-"date": "2026-04-07T15:53",
-"tintColor": "#0fee94",
-"imageURL": "https://i.imgur.com/D9SHXaT.png",
-"notify": true,
-"url": "https://lebron23111.github.io/NALT-Source/",
-"appID": null
-}
+
 ]
 }
